@@ -1,0 +1,305 @@
+2026-10-21T20:46:06.724+0700 [DEBUG] [org.gradle.launcher.daemon.bootstrap.DaemonMain] Assuming the daemon was started with following jvm opts: [-XX:MaxMetaspaceSize=384m, -XX:+HeapDumpOnOutOfMemoryError, -Xms256m, -Xmx512m, -Dfile.encoding=UTF-8, -Duser.country=US, -Duser.language=en, -Duser.variant]
+2026-10-21T20:46:06.820+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface VirtualBox Host-Only Ethernet Adapter-WFP Native MAC Layer LightWeight Filter-0000
+2026-10-21T20:46:06.821+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.821+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface VirtualBox Host-Only Ethernet Adapter-QoS Packet Scheduler-0000
+2026-10-21T20:46:06.822+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.822+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface VirtualBox Host-Only Ethernet Adapter-WFP 802.3 MAC Layer LightWeight Filter-0000
+2026-10-21T20:46:06.822+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.822+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface Realtek Gaming 2.5GbE Family Controller-WFP Native MAC Layer LightWeight Filter-0000
+2026-10-21T20:46:06.823+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.823+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface Realtek Gaming 2.5GbE Family Controller-VirtualBox NDIS Light-Weight Filter-0000
+2026-10-21T20:46:06.823+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.823+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface Realtek Gaming 2.5GbE Family Controller-QoS Packet Scheduler-0000
+2026-10-21T20:46:06.823+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.824+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface Realtek Gaming 2.5GbE Family Controller-WFP 802.3 MAC Layer LightWeight Filter-0000
+2026-10-21T20:46:06.824+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.824+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface Microsoft Kernel Debug Network Adapter
+2026-10-21T20:46:06.825+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.825+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface Realtek Gaming 2.5GbE Family Controller
+2026-10-21T20:46:06.825+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.826+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding remote address /fe80:0:0:0:406c:1ffe:e8cb:da89%ethernet_32769
+2026-10-21T20:46:06.826+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface WAN Miniport (IP)
+2026-10-21T20:46:06.826+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.826+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface WAN Miniport (IPv6)
+2026-10-21T20:46:06.827+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.827+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface WAN Miniport (Network Monitor)
+2026-10-21T20:46:06.827+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.827+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface Bluetooth Device (Personal Area Network)
+2026-10-21T20:46:06.827+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.828+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface Bluetooth Device (Personal Area Network) #2
+2026-10-21T20:46:06.828+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.828+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding remote address /fe80:0:0:0:8b9a:f605:85fe:8db4%ethernet_32774
+2026-10-21T20:46:06.829+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface VMware Virtual Ethernet Adapter for VMnet1
+2026-10-21T20:46:06.829+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.830+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding remote address /fe80:0:0:0:4ff4:96d6:76f1:4ba4%ethernet_32775
+2026-10-21T20:46:06.830+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding remote address /192.168.239.1
+2026-10-21T20:46:06.830+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface VMware Virtual Ethernet Adapter for VMnet8
+2026-10-21T20:46:06.830+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.831+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding remote address /fe80:0:0:0:3540:8577:a670:c5c%ethernet_32776
+2026-10-21T20:46:06.831+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding remote address /192.168.150.1
+2026-10-21T20:46:06.831+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface VirtualBox Host-Only Ethernet Adapter
+2026-10-21T20:46:06.831+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.831+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding remote address /fe80:0:0:0:68b1:7e30:1c66:6352%ethernet_32779
+2026-10-21T20:46:06.831+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding remote address /192.168.56.1
+2026-10-21T20:46:06.832+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface WAN Miniport (PPPOE)
+2026-10-21T20:46:06.832+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.832+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface Software Loopback Interface 1
+2026-10-21T20:46:06.832+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? true
+2026-10-21T20:46:06.832+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding loopback address /0:0:0:0:0:0:0:1
+2026-10-21T20:46:06.832+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding loopback address /127.0.0.1
+2026-10-21T20:46:06.832+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz Wireless LAN Card-WFP Native MAC Layer LightWeight Filter-0000
+2026-10-21T20:46:06.832+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.833+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz Wireless LAN Card-Virtual WiFi Filter Driver-0000
+2026-10-21T20:46:06.833+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.833+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz Wireless LAN Card-Native WiFi Filter Driver-0000
+2026-10-21T20:46:06.833+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.833+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz Wireless LAN Card-VirtualBox NDIS Light-Weight Filter-0000
+2026-10-21T20:46:06.834+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.834+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz Wireless LAN Card-QoS Packet Scheduler-0000
+2026-10-21T20:46:06.834+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.834+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz Wireless LAN Card-WFP 802.3 MAC Layer LightWeight Filter-0000
+2026-10-21T20:46:06.834+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.834+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface Microsoft Wi-Fi Direct Virtual Adapter-WFP Native MAC Layer LightWeight Filter-0000
+2026-10-21T20:46:06.834+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.835+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface Microsoft Wi-Fi Direct Virtual Adapter-Native WiFi Filter Driver-0000
+2026-10-21T20:46:06.835+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.835+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface Microsoft Wi-Fi Direct Virtual Adapter-VirtualBox NDIS Light-Weight Filter-0000
+2026-10-21T20:46:06.835+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.836+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface Microsoft Wi-Fi Direct Virtual Adapter-QoS Packet Scheduler-0000
+2026-10-21T20:46:06.836+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.836+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface Microsoft Wi-Fi Direct Virtual Adapter-WFP 802.3 MAC Layer LightWeight Filter-0000
+2026-10-21T20:46:06.836+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.836+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface Microsoft Wi-Fi Direct Virtual Adapter #2-WFP Native MAC Layer LightWeight Filter-0000
+2026-10-21T20:46:06.836+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.836+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface Microsoft Wi-Fi Direct Virtual Adapter #2-Native WiFi Filter Driver-0000
+2026-10-21T20:46:06.836+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.836+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface Microsoft Wi-Fi Direct Virtual Adapter #2-VirtualBox NDIS Light-Weight Filter-0000
+2026-10-21T20:46:06.837+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.837+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface Microsoft Wi-Fi Direct Virtual Adapter #2-QoS Packet Scheduler-0000
+2026-10-21T20:46:06.837+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.837+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface Microsoft Wi-Fi Direct Virtual Adapter #2-WFP 802.3 MAC Layer LightWeight Filter-0000
+2026-10-21T20:46:06.837+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.837+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface Microsoft Wi-Fi Direct Virtual Adapter
+2026-10-21T20:46:06.837+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.837+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding remote address /fe80:0:0:0:af5d:3fa1:b348:7a69%wireless_32768
+2026-10-21T20:46:06.837+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface Microsoft Wi-Fi Direct Virtual Adapter #2
+2026-10-21T20:46:06.837+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.838+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding remote address /fe80:0:0:0:68a8:78d4:1c5e:94ba%wireless_32769
+2026-10-21T20:46:06.838+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface MediaTek Wi-Fi 6E MT7922 160MHz Wireless LAN Card
+2026-10-21T20:46:06.838+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.838+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz Wireless LAN Card
+2026-10-21T20:46:06.838+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.838+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding remote address /fe80:0:0:0:6fab:c3fe:8c6f:fbc4%wireless_32772
+2026-10-21T20:46:06.838+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding remote address /192.168.1.189
+2026-10-21T20:46:06.838+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface Microsoft Wi-Fi Direct Virtual Adapter #3
+2026-10-21T20:46:06.838+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.838+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface Microsoft Wi-Fi Direct Virtual Adapter #4
+2026-10-21T20:46:06.838+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.838+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface Microsoft Teredo Tunneling Adapter
+2026-10-21T20:46:06.839+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.839+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface Microsoft IP-HTTPS Platform Adapter
+2026-10-21T20:46:06.839+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.839+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface Microsoft 6to4 Adapter
+2026-10-21T20:46:06.839+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.839+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface WAN Miniport (SSTP)
+2026-10-21T20:46:06.839+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.839+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface WAN Miniport (IKEv2)
+2026-10-21T20:46:06.839+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.839+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface WAN Miniport (L2TP)
+2026-10-21T20:46:06.840+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.840+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface WAN Miniport (PPTP)
+2026-10-21T20:46:06.840+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+2026-10-21T20:46:06.868+0700 [INFO] [org.gradle.launcher.daemon.server.Daemon] start() called on daemon - DefaultDaemonContext[uid=29b5b320-0978-4015-a9e5-6c6cd090cff4,javaHome=C:\graalvm-community-openjdk-25.0.1+8.1,javaVersion=25,javaVendor=GraalVM Community,daemonRegistryDir=D:\ISTAD\ITE Advance\Homework\spring-authorization-server\.gradle-user\daemon,pid=27036,idleTimeout=120000,priority=NORMAL,applyInstrumentationAgent=true,nativeServicesMode=ENABLED,daemonOpts=-XX:MaxMetaspaceSize=384m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant]
+2026-10-21T20:46:06.892+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.TcpIncomingConnector] Listening on [7a45684a-efcc-4731-9b75-a7e9c67c7e8c port:53108, addresses:[localhost/127.0.0.1]].
+2026-10-21T20:46:06.905+0700 [DEBUG] [org.gradle.launcher.daemon.server.Daemon] Daemon starting at: Wed Oct 21 20:46:06 GMT+07:00 2026, with address: [7a45684a-efcc-4731-9b75-a7e9c67c7e8c port:53108, addresses:[localhost/127.0.0.1]]
+2026-10-21T20:46:06.905+0700 [INFO] [org.gradle.launcher.daemon.server.DaemonRegistryUpdater] Advertising the daemon address to the clients: [7a45684a-efcc-4731-9b75-a7e9c67c7e8c port:53108, addresses:[localhost/127.0.0.1]]
+2026-10-21T20:46:06.906+0700 [DEBUG] [org.gradle.launcher.daemon.server.DaemonRegistryUpdater] Advertised daemon context: DefaultDaemonContext[uid=29b5b320-0978-4015-a9e5-6c6cd090cff4,javaHome=C:\graalvm-community-openjdk-25.0.1+8.1,javaVersion=25,javaVendor=GraalVM Community,daemonRegistryDir=D:\ISTAD\ITE Advance\Homework\spring-authorization-server\.gradle-user\daemon,pid=27036,idleTimeout=120000,priority=NORMAL,applyInstrumentationAgent=true,nativeServicesMode=ENABLED,daemonOpts=-XX:MaxMetaspaceSize=384m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant]
+2026-10-21T20:46:06.906+0700 [DEBUG] [org.gradle.launcher.daemon.registry.PersistentDaemonRegistry] Storing daemon address: [7a45684a-efcc-4731-9b75-a7e9c67c7e8c port:53108, addresses:[localhost/127.0.0.1]], context: DefaultDaemonContext[uid=29b5b320-0978-4015-a9e5-6c6cd090cff4,javaHome=C:\graalvm-community-openjdk-25.0.1+8.1,javaVersion=25,javaVendor=GraalVM Community,daemonRegistryDir=D:\ISTAD\ITE Advance\Homework\spring-authorization-server\.gradle-user\daemon,pid=27036,idleTimeout=120000,priority=NORMAL,applyInstrumentationAgent=true,nativeServicesMode=ENABLED,daemonOpts=-XX:MaxMetaspaceSize=384m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant]
+2026-10-21T20:46:06.922+0700 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire exclusive lock on daemon addresses registry.
+2026-10-21T20:46:06.925+0700 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2026-10-21T20:46:06.931+0700 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2026-10-21T20:46:06.932+0700 [LIFECYCLE] [org.gradle.launcher.daemon.server.Daemon] Daemon server started.
+2026-10-21T20:46:06.943+0700 [DEBUG] [org.gradle.launcher.daemon.server.Daemon] stopOnExpiration() called on daemon
+2026-10-21T20:46:06.944+0700 [DEBUG] [org.gradle.launcher.daemon.server.Daemon] awaitExpiration() called on daemon
+2026-10-21T20:46:06.945+0700 [DEBUG] [org.gradle.launcher.daemon.server.DaemonStateCoordinator] daemon is running. Sleeping until state changes.
+2026-10-21T20:46:06.964+0700 [DEBUG] [org.gradle.internal.remote.internal.inet.TcpIncomingConnector] Accepted connection from /127.0.0.1:53109 to /127.0.0.1:53108.
+2026-10-21T20:46:07.012+0700 [DEBUG] [org.gradle.launcher.daemon.server.SynchronizedDispatchConnection] thread 47: received class org.gradle.launcher.daemon.protocol.Build
+2026-10-21T20:46:07.013+0700 [DEBUG] [org.gradle.launcher.daemon.server.DefaultDaemonConnection] thread 47: Received non-IO message from client: Build{id=8c8c3b90-f21a-4edd-a611-171f18219fe9, currentDir=D:\ISTAD\ITE Advance\Homework\spring-authorization-server}
+2026-10-21T20:46:07.013+0700 [INFO] [org.gradle.launcher.daemon.server.DefaultIncomingConnectionHandler] Received command: Build{id=8c8c3b90-f21a-4edd-a611-171f18219fe9, currentDir=D:\ISTAD\ITE Advance\Homework\spring-authorization-server}.
+2026-10-21T20:46:07.013+0700 [DEBUG] [org.gradle.launcher.daemon.server.DefaultIncomingConnectionHandler] Starting executing command: Build{id=8c8c3b90-f21a-4edd-a611-171f18219fe9, currentDir=D:\ISTAD\ITE Advance\Homework\spring-authorization-server} with connection: socket connection from /127.0.0.1:53108 to /127.0.0.1:53109.
+2026-10-21T20:46:07.015+0700 [DEBUG] [org.gradle.launcher.daemon.server.DaemonStateCoordinator] Command execution: started DaemonCommandExecution[command = Build{id=8c8c3b90-f21a-4edd-a611-171f18219fe9, currentDir=D:\ISTAD\ITE Advance\Homework\spring-authorization-server}, connection = DefaultDaemonConnection: socket connection from /127.0.0.1:53108 to /127.0.0.1:53109] after 0.0020833333333333333 minutes of idle
+2026-10-21T20:46:07.015+0700 [INFO] [org.gradle.launcher.daemon.server.DaemonRegistryUpdater] Marking the daemon as busy, address: [7a45684a-efcc-4731-9b75-a7e9c67c7e8c port:53108, addresses:[localhost/127.0.0.1]]
+2026-10-21T20:46:07.015+0700 [DEBUG] [org.gradle.launcher.daemon.registry.PersistentDaemonRegistry] Marking busy by address: [7a45684a-efcc-4731-9b75-a7e9c67c7e8c port:53108, addresses:[localhost/127.0.0.1]]
+2026-10-21T20:46:07.016+0700 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire exclusive lock on daemon addresses registry.
+2026-10-21T20:46:07.016+0700 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2026-10-21T20:46:07.017+0700 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2026-10-21T20:46:07.017+0700 [DEBUG] [org.gradle.launcher.daemon.server.DaemonStateCoordinator] resetting idle timer
+2026-10-21T20:46:07.017+0700 [DEBUG] [org.gradle.launcher.daemon.server.DaemonStateCoordinator] daemon is running. Sleeping until state changes.
+2026-10-21T20:46:07.018+0700 [INFO] [org.gradle.launcher.daemon.server.exec.StartBuildOrRespondWithBusy] Daemon is about to start building Build{id=8c8c3b90-f21a-4edd-a611-171f18219fe9, currentDir=D:\ISTAD\ITE Advance\Homework\spring-authorization-server}. Dispatching build started information...
+2026-10-21T20:46:07.019+0700 [DEBUG] [org.gradle.launcher.daemon.server.SynchronizedDispatchConnection] thread 49: dispatching org.gradle.launcher.daemon.protocol.BuildStarted@8cfcb59
+2026-10-21T20:46:07.021+0700 [DEBUG] [org.gradle.launcher.daemon.server.exec.LogToClient] About to start relaying all logs to the client via the connection.
+2026-10-21T20:46:07.021+0700 [INFO] [org.gradle.launcher.daemon.server.exec.LogToClient] The client will now receive all logging from the daemon (pid: 27036). The daemon log file: D:\ISTAD\ITE Advance\Homework\spring-authorization-server\.gradle-user\daemon\9.8.1\daemon-27036.out.log
+2026-10-21T20:46:07.021+0700 [DEBUG] [org.gradle.launcher.daemon.server.exec.ApplyClientEnvironmentVariables] Configuring env variables: [USERDOMAIN_ROAMINGPROFILE, PROCESSOR_LEVEL, INTELLIJ_TERMINAL_COMMAND_BLOCKS_REWORKED, GIT_PAGER, SESSIONNAME, ALLUSERSPROFILE, PROCESSOR_ARCHITECTURE, GATEWAY_VM_OPTIONS, PSModulePath, SystemDrive, EFC_12440_1262719628, GH_PAGER, MAVEN_HOME, COLORTERM, ACSvcPort, RIDER_VM_OPTIONS, USERNAME, EFC_12440_4126798990, DEVECOSTUDIO_VM_OPTIONS, STUDIO_VM_OPTIONS, ProgramFiles(x86), EFC_12440_3789132940, ACSetupSvcPort, FPS_BROWSER_USER_PROFILE_STRING, PATHEXT, CODEX_SANDBOX_NETWORK_DISABLED, APPCODE_VM_OPTIONS, DriverData, FIG_TERM, PAGER, CODEX_PERMISSION_PROFILE, EFC_12440_1592913036, DATASPELL_VM_OPTIONS, ProgramData, ProgramW6432, PROCESS_LAUNCHED_BY_CW, HOMEPATH, EFC_12440_344590478, LC_ALL, PROCESSOR_IDENTIFIER, ProgramFiles, PUBLIC, windir, LC_CTYPE, CODEX_SESSION_ID, =::, DATAGRIP_VM_OPTIONS, LOCALAPPDATA, USERDOMAIN, FPS_BROWSER_APP_PROFILE_STRING, WEBSTORM_VM_OPTIONS, LOGONSERVER, PYCHARM_VM_OPTIONS, JAVA_HOME, PROMPT, CLION_VM_OPTIONS, JETBRAINSCLIENT_VM_OPTIONS, TERM, JETBRAINS_INTELLIJ_COMMAND_END_MARKER, LANG, RlsSvcPort, GOLAND_VM_OPTIONS, OneDrive, APPDATA, GRADLE_USER_HOME, IDEA_VM_OPTIONS, RUBYMINE_VM_OPTIONS, CODEX_THREAD_ID, JETBRAINS_CLIENT_VM_OPTIONS, NO_COLOR, EFC_12440_2775293581, EFC_12440_2283032206, VBOX_MSI_INSTALL_PATH, Path, CODEX_CI, CommonProgramFiles, OS, COMPUTERNAME, EFC_12440_2946480783, EnableLog, PROCESS_LAUNCHED_BY_Q, PROCESSOR_REVISION, CommonProgramW6432, ComSpec, TERMINAL_EMULATOR, PSExecutionPolicyPreference, =D:, SystemRoot, TEMP, WEBIDE_VM_OPTIONS, HOMEDRIVE, USERPROFILE, TMP, CommonProgramFiles(x86), NUMBER_OF_PROCESSORS, PHPSTORM_VM_OPTIONS]
+2026-10-21T20:46:07.026+0700 [DEBUG] [org.gradle.launcher.daemon.server.exec.RequestStopIfSingleUsedDaemon] Requesting daemon stop after processing Build{id=8c8c3b90-f21a-4edd-a611-171f18219fe9, currentDir=D:\ISTAD\ITE Advance\Homework\spring-authorization-server}
+2026-10-21T20:46:07.026+0700 [LIFECYCLE] [org.gradle.launcher.daemon.server.DaemonStateCoordinator] Daemon will be stopped at the end of the build 
+2026-10-21T20:46:07.026+0700 [DEBUG] [org.gradle.launcher.daemon.server.DaemonStateCoordinator] Stop as soon as idle requested. The daemon is busy
+2026-10-21T20:46:07.026+0700 [DEBUG] [org.gradle.launcher.daemon.server.DaemonStateCoordinator] daemon stop has been requested. Sleeping until state changes.
+2026-10-21T20:46:07.029+0700 [DEBUG] [org.gradle.launcher.daemon.server.exec.ExecuteBuild] The daemon has started executing the build.
+2026-10-21T20:46:07.029+0700 [DEBUG] [org.gradle.launcher.daemon.server.exec.ExecuteBuild] Executing build with daemon context: DefaultDaemonContext[uid=29b5b320-0978-4015-a9e5-6c6cd090cff4,javaHome=C:\graalvm-community-openjdk-25.0.1+8.1,javaVersion=25,javaVendor=GraalVM Community,daemonRegistryDir=D:\ISTAD\ITE Advance\Homework\spring-authorization-server\.gradle-user\daemon,pid=27036,idleTimeout=120000,priority=NORMAL,applyInstrumentationAgent=true,nativeServicesMode=ENABLED,daemonOpts=-XX:MaxMetaspaceSize=384m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant]
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.1.1)
+
+2026-10-21T20:46:14.362+07:00  INFO 13608 --- [spring-authorization-server] [           main] k.s.SpringAuthorizationServerApplication : Starting SpringAuthorizationServerApplication using Java 25.0.1 with PID 13608 (D:\ISTAD\ITE Advance\Homework\spring-authorization-server\build\classes\java\main started by User in D:\ISTAD\ITE Advance\Homework\spring-authorization-server)
+2026-10-21T20:46:14.366+07:00  INFO 13608 --- [spring-authorization-server] [           main] k.s.SpringAuthorizationServerApplication : No active profile set, falling back to 1 default profile: "default"
+2026-10-21T20:46:14.845+07:00  INFO 13608 --- [spring-authorization-server] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-10-21T20:46:14.886+07:00  INFO 13608 --- [spring-authorization-server] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 35 ms. Found 3 JPA repository interfaces.
+2026-10-21T20:46:15.288+07:00  INFO 13608 --- [spring-authorization-server] [           main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 9000 (http)
+2026-10-21T20:46:15.298+07:00  INFO 13608 --- [spring-authorization-server] [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-10-21T20:46:15.298+07:00  INFO 13608 --- [spring-authorization-server] [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.24]
+2026-10-21T20:46:15.337+07:00  INFO 13608 --- [spring-authorization-server] [           main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 932 ms
+2026-10-21T20:46:15.453+07:00  INFO 13608 --- [spring-authorization-server] [           main] org.hibernate.orm.jpa                    : HHH008540: Processing PersistenceUnitInfo [name: default]
+2026-10-21T20:46:15.492+07:00  INFO 13608 --- [spring-authorization-server] [           main] org.hibernate.orm.core                   : HHH000001: Hibernate ORM core version 7.4.5.Final
+2026-10-21T20:46:15.796+07:00  INFO 13608 --- [spring-authorization-server] [           main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-10-21T20:46:15.818+07:00  INFO 13608 --- [spring-authorization-server] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-10-21T20:46:15.955+07:00  INFO 13608 --- [spring-authorization-server] [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection conn0: url=jdbc:h2:file:./data/authorization-server user=SA
+2026-10-21T20:46:15.956+07:00  INFO 13608 --- [spring-authorization-server] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-10-21T20:46:15.997+07:00  INFO 13608 --- [spring-authorization-server] [           main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
+	Database JDBC URL [jdbc:h2:file:./data/authorization-server]
+	Database driver: H2 JDBC Driver
+	Database dialect: H2Dialect
+	Database version: 2.4.240
+	Default catalog/schema: AUTHORIZATION-SERVER/PUBLIC
+	Autocommit mode: undefined/unknown
+	Isolation level: READ_COMMITTED [default READ_COMMITTED]
+	JDBC fetch size: 100
+	Pool: DataSourceConnectionProvider
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2026-10-21T20:46:16.696+07:00  INFO 13608 --- [spring-authorization-server] [           main] org.hibernate.orm.core                   : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-10-21T20:46:16.736+07:00  INFO 13608 --- [spring-authorization-server] [           main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-10-21T20:46:16.786+07:00  INFO 13608 --- [spring-authorization-server] [           main] o.s.d.j.r.query.QueryEnhancerFactories   : Hibernate is in classpath; If applicable, HQL parser will be used.
+2026-10-21T20:46:16.894+07:00 DEBUG 13608 --- [spring-authorization-server] [           main] o.s.s.jackson.SecurityJacksonModules     : Loaded module org.springframework.security.jackson.CoreJacksonModule, now registering
+2026-10-21T20:46:16.895+07:00 DEBUG 13608 --- [spring-authorization-server] [           main] o.s.s.jackson.SecurityJacksonModules     : Loaded module org.springframework.security.web.jackson.WebJacksonModule, now registering
+2026-10-21T20:46:16.895+07:00 DEBUG 13608 --- [spring-authorization-server] [           main] o.s.s.jackson.SecurityJacksonModules     : Loaded module org.springframework.security.web.server.jackson.WebServerJacksonModule, now registering
+2026-10-21T20:46:16.895+07:00 DEBUG 13608 --- [spring-authorization-server] [           main] o.s.s.jackson.SecurityJacksonModules     : Loaded module org.springframework.security.web.jackson.WebServletJacksonModule, now registering
+2026-10-21T20:46:16.895+07:00 DEBUG 13608 --- [spring-authorization-server] [           main] o.s.s.jackson.SecurityJacksonModules     : Loaded module org.springframework.security.oauth2.server.authorization.jackson.OAuth2AuthorizationServerJacksonModule, now registering
+2026-10-21T20:46:17.229+07:00 DEBUG 13608 --- [spring-authorization-server] [           main] o.s.s.jackson.SecurityJacksonModules     : Loaded module org.springframework.security.jackson.CoreJacksonModule, now registering
+2026-10-21T20:46:17.229+07:00 DEBUG 13608 --- [spring-authorization-server] [           main] o.s.s.jackson.SecurityJacksonModules     : Loaded module org.springframework.security.web.jackson.WebJacksonModule, now registering
+2026-10-21T20:46:17.229+07:00 DEBUG 13608 --- [spring-authorization-server] [           main] o.s.s.jackson.SecurityJacksonModules     : Loaded module org.springframework.security.web.server.jackson.WebServerJacksonModule, now registering
+2026-10-21T20:46:17.229+07:00 DEBUG 13608 --- [spring-authorization-server] [           main] o.s.s.jackson.SecurityJacksonModules     : Loaded module org.springframework.security.web.jackson.WebServletJacksonModule, now registering
+2026-10-21T20:46:17.229+07:00 DEBUG 13608 --- [spring-authorization-server] [           main] o.s.s.jackson.SecurityJacksonModules     : Loaded module org.springframework.security.oauth2.server.authorization.jackson.OAuth2AuthorizationServerJacksonModule, now registering
+2026-10-21T20:46:17.310+07:00 TRACE 13608 --- [spring-authorization-server] [           main] eGlobalAuthenticationAutowiredConfigurer : Eagerly initializing {authorizationServerSecurityConfig=co.istad.kongkea.spring_authorization_server.feature.customer.security.AuthorizationServerSecurityConfig$$SpringCGLIB$$0@37a0c3c6}
+2026-10-21T20:46:17.315+07:00  INFO 13608 --- [spring-authorization-server] [           main] r$InitializeUserDetailsManagerConfigurer : Global AuthenticationManager configured with UserDetailsService bean with name userService
+2026-10-21T20:46:17.931+07:00 DEBUG 13608 --- [spring-authorization-server] [           main] o.s.s.web.DefaultSecurityFilterChain     : Will secure org.springframework.security.config.annotation.web.configurers.oauth2.server.authorization.OAuth2AuthorizationServerConfigurer$$Lambda/0x0000000029922000@48f08e9 with filters: DisableEncodeUrlFilter, WebAsyncManagerIntegrationFilter, SecurityContextHolderFilter, AuthorizationServerContextFilter, HeaderWriterFilter, CsrfFilter, OidcLogoutEndpointFilter, LogoutFilter, OAuth2AuthorizationServerMetadataEndpointFilter, OAuth2AuthorizationCodeRequestValidatingFilter, OidcProviderConfigurationEndpointFilter, NimbusJwkSetEndpointFilter, OAuth2ProtectedResourceMetadataFilter, OAuth2ClientAuthenticationFilter, BearerTokenAuthenticationFilter, RequestCacheAwareFilter, SecurityContextHolderAwareRequestFilter, AnonymousAuthenticationFilter, ExceptionTranslationFilter, AuthorizationFilter, OAuth2AuthorizationEndpointFilter, OAuth2TokenEndpointFilter, OAuth2TokenIntrospectionEndpointFilter, OAuth2TokenRevocationEndpointFilter, OidcUserInfoEndpointFilter
+2026-10-21T20:46:17.955+07:00 DEBUG 13608 --- [spring-authorization-server] [           main] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with filters: DisableEncodeUrlFilter, WebAsyncManagerIntegrationFilter, SecurityContextHolderFilter, HeaderWriterFilter, CsrfFilter, LogoutFilter, UsernamePasswordAuthenticationFilter, DefaultResourcesFilter, DefaultLoginPageGeneratingFilter, DefaultLogoutPageGeneratingFilter, RequestCacheAwareFilter, SecurityContextHolderAwareRequestFilter, AnonymousAuthenticationFilter, ExceptionTranslationFilter, AuthorizationFilter
+2026-10-21T20:46:18.177+07:00  INFO 13608 --- [spring-authorization-server] [           main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 9000 (http) with context path '/'
+2026-10-21T20:46:18.182+07:00  INFO 13608 --- [spring-authorization-server] [           main] k.s.SpringAuthorizationServerApplication : Started SpringAuthorizationServerApplication in 4.198 seconds (process running for 4.581)
+2026-10-21T20:46:53.345+07:00  INFO 13608 --- [spring-authorization-server] [nio-9000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-10-21T20:46:53.345+07:00  INFO 13608 --- [spring-authorization-server] [nio-9000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-10-21T20:46:53.346+07:00  INFO 13608 --- [spring-authorization-server] [nio-9000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2026-10-21T20:46:53.354+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] o.s.security.web.FilterChainProxy        : Trying to match request against DefaultSecurityFilterChain defined as 'authorizationServerSecurityFilterChain' in [class path resource [co/istad/kongkea/spring_authorization_server/feature/customer/security/AuthorizationServerSecurityConfig.class]] matching [org.springframework.security.config.annotation.web.configurers.oauth2.server.authorization.OAuth2AuthorizationServerConfigurer$$Lambda/0x0000000029922000@48f08e9] and having filters [DisableEncodeUrl, WebAsyncManagerIntegration, SecurityContextHolder, AuthorizationServerContext, HeaderWriter, Csrf, OidcLogoutEndpoint, Logout, OAuth2AuthorizationServerMetadataEndpoint, OAuth2AuthorizationCodeRequestValidating, OidcProviderConfigurationEndpoint, NimbusJwkSetEndpoint, OAuth2ProtectedResourceMetadata, OAuth2ClientAuthentication, BearerTokenAuthentication, RequestCacheAware, SecurityContextHolderAwareRequest, AnonymousAuthentication, ExceptionTranslation, Authorization, OAuth2AuthorizationEndpoint, OAuth2TokenEndpoint, OAuth2TokenIntrospectionEndpoint, OAuth2TokenRevocationEndpoint, OidcUserInfoEndpoint] (1/2)
+2026-10-21T20:46:53.356+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] o.s.security.web.FilterChainProxy        : Trying to match request against DefaultSecurityFilterChain defined as 'applicationSecurityFilterChain' in [class path resource [co/istad/kongkea/spring_authorization_server/feature/customer/security/AuthorizationServerSecurityConfig.class]] matching [any request] and having filters [DisableEncodeUrl, WebAsyncManagerIntegration, SecurityContextHolder, HeaderWriter, Csrf, Logout, UsernamePasswordAuthentication, DefaultResources, DefaultLoginPageGenerating, DefaultLogoutPageGenerating, RequestCacheAware, SecurityContextHolderAwareRequest, AnonymousAuthentication, ExceptionTranslation, Authorization] (2/2)
+2026-10-21T20:46:53.356+07:00 DEBUG 13608 --- [spring-authorization-server] [nio-9000-exec-1] o.s.security.web.FilterChainProxy        : Securing POST /api/v1/users
+2026-10-21T20:46:53.357+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] o.s.security.web.FilterChainProxy        : Invoking DisableEncodeUrlFilter (1/15)
+2026-10-21T20:46:53.358+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] o.s.security.web.FilterChainProxy        : Invoking WebAsyncManagerIntegrationFilter (2/15)
+2026-10-21T20:46:53.360+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] o.s.security.web.FilterChainProxy        : Invoking SecurityContextHolderFilter (3/15)
+2026-10-21T20:46:53.362+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] o.s.security.web.FilterChainProxy        : Invoking HeaderWriterFilter (4/15)
+2026-10-21T20:46:53.363+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] o.s.security.web.FilterChainProxy        : Invoking CsrfFilter (5/15)
+2026-10-21T20:46:53.364+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] s.s.w.c.CsrfTokenRequestAttributeHandler : Wrote a CSRF token to the following request attributes: [_csrf, org.springframework.security.web.csrf.CsrfToken]
+2026-10-21T20:46:53.365+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] o.s.security.web.csrf.CsrfFilter         : Did not protect against CSRF since request did not match And [IsNotHttpMethod [TRACE, HEAD, GET, OPTIONS], Not [Or [PathPattern [/api/v1/users/**], PathPattern [/api/v1/client/**]]]]
+2026-10-21T20:46:53.365+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] o.s.security.web.FilterChainProxy        : Invoking LogoutFilter (6/15)
+2026-10-21T20:46:53.365+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] o.s.s.w.a.logout.LogoutFilter            : Did not match request to PathPattern [POST /logout]
+2026-10-21T20:46:53.366+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] o.s.security.web.FilterChainProxy        : Invoking UsernamePasswordAuthenticationFilter (7/15)
+2026-10-21T20:46:53.366+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] w.a.UsernamePasswordAuthenticationFilter : Did not match request to PathPattern [POST /login]
+2026-10-21T20:46:53.366+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] o.s.security.web.FilterChainProxy        : Invoking DefaultResourcesFilter (8/15)
+2026-10-21T20:46:53.366+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] o.s.security.web.FilterChainProxy        : Invoking DefaultLoginPageGeneratingFilter (9/15)
+2026-10-21T20:46:53.366+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] o.s.security.web.FilterChainProxy        : Invoking DefaultLogoutPageGeneratingFilter (10/15)
+2026-10-21T20:46:53.366+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] .w.a.u.DefaultLogoutPageGeneratingFilter : Did not render default logout page since request did not match [PathPattern [GET /logout]]
+2026-10-21T20:46:53.366+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] o.s.security.web.FilterChainProxy        : Invoking RequestCacheAwareFilter (11/15)
+2026-10-21T20:46:53.366+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] o.s.s.w.s.HttpSessionRequestCache        : matchingRequestParameterName is required for getMatchingRequest to lookup a value, but not provided
+2026-10-21T20:46:53.366+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] o.s.security.web.FilterChainProxy        : Invoking SecurityContextHolderAwareRequestFilter (12/15)
+2026-10-21T20:46:53.369+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] o.s.security.web.FilterChainProxy        : Invoking AnonymousAuthenticationFilter (13/15)
+2026-10-21T20:46:53.370+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] o.s.security.web.FilterChainProxy        : Invoking ExceptionTranslationFilter (14/15)
+2026-10-21T20:46:53.370+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] o.s.security.web.FilterChainProxy        : Invoking AuthorizationFilter (15/15)
+2026-10-21T20:46:53.371+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] estMatcherDelegatingAuthorizationManager : Authorizing POST /api/v1/users
+2026-10-21T20:46:53.371+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] estMatcherDelegatingAuthorizationManager : Checking authorization on POST /api/v1/users using org.springframework.security.authorization.SingleResultAuthorizationManager@175066f0
+2026-10-21T20:46:53.372+07:00 DEBUG 13608 --- [spring-authorization-server] [nio-9000-exec-1] o.s.security.web.FilterChainProxy        : Secured POST /api/v1/users
+2026-10-21T20:46:53.595+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] w.c.HttpSessionSecurityContextRepository : No HttpSession currently exists
+2026-10-21T20:46:53.595+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] .s.s.w.c.SupplierDeferredSecurityContext : Created SecurityContextImpl [Null authentication]
+2026-10-21T20:46:53.595+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] .s.s.w.c.SupplierDeferredSecurityContext : Created SecurityContextImpl [Null authentication]
+2026-10-21T20:46:53.596+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] o.s.s.w.a.AnonymousAuthenticationFilter  : Set SecurityContextHolder to AnonymousAuthenticationToken [Principal=anonymousUser, Credentials=[PROTECTED], Authenticated=true, Details=WebAuthenticationDetails [RemoteIpAddress=0:0:0:0:0:0:0:1, SessionId=null], Granted Authorities=[ROLE_ANONYMOUS]]
+2026-10-21T20:46:53.596+07:00 TRACE 13608 --- [spring-authorization-server] [nio-9000-exec-1] o.s.s.w.header.writers.HstsHeaderWriter  : Not injecting HSTS header since it did not match request to [Is Secure]
+thread 47: client disconnection detected, canceling the build
+Daemon is stopping immediately the build was canceled after a stop was requested
+Unable to execute command Build{id=8c8c3b90-f21a-4edd-a611-171f18219fe9, currentDir=D:\ISTAD\ITE Advance\Homework\spring-authorization-server} from socket connection from /127.0.0.1:53108 to /127.0.0.1:53109. Dispatching the failure to the daemon client
+org.gradle.internal.remote.internal.MessageIOException: Could not write '/127.0.0.1:53109'.
+	at org.gradle.internal.remote.internal.inet.SocketConnection.flush(SocketConnection.java:142)
+	at org.gradle.launcher.daemon.server.SynchronizedDispatchConnection.dispatchAndFlush(SynchronizedDispatchConnection.java:57)
+	at org.gradle.launcher.daemon.server.DefaultDaemonConnection.completed(DefaultDaemonConnection.java:150)
+	at org.gradle.launcher.daemon.server.exec.StartBuildOrRespondWithBusy.doBuild(StartBuildOrRespondWithBusy.java:61)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:37)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.ReturnResult.execute(ReturnResult.java:36)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.CleanUpVirtualFileSystemAfterBuild.doBuild(CleanUpVirtualFileSystemAfterBuild.java:58)
+	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:37)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.api.HandleReportStatus.execute(HandleReportStatus.java:35)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.HandleCancel.execute(HandleCancel.java:39)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.api.HandleInvalidateVirtualFileSystem.execute(HandleInvalidateVirtualFileSystem.java:46)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.api.HandleStop.execute(HandleStop.java:46)
+	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+	at org.gradle.launcher.daemon.server.exec.DaemonCommandExecuter.executeCommand(DaemonCommandExecuter.java:55)
+	at org.gradle.launcher.daemon.server.DefaultIncomingConnectionHandler$ConnectionWorker.handleCommand(DefaultIncomingConnectionHandler.java:161)
+	at org.gradle.launcher.daemon.server.DefaultIncomingConnectionHandler$ConnectionWorker.receiveAndHandleCommand(DefaultIncomingConnectionHandler.java:134)
+	at org.gradle.launcher.daemon.server.DefaultIncomingConnectionHandler$ConnectionWorker.run(DefaultIncomingConnectionHandler.java:122)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:65)
+	at org.gradle.internal.concurrent.AbstractManagedExecutor$1.run(AbstractManagedExecutor.java:47)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:57)
+	at java.base/sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:137)
+	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:81)
+	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:58)
+	at java.base/sun.nio.ch.SocketChannelImpl.implWrite(SocketChannelImpl.java:562)
+	at java.base/sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:614)
+	at org.gradle.internal.remote.internal.inet.SocketConnection$SocketOutputStream.writeWithNonBlockingRetry(SocketConnection.java:282)
+	at org.gradle.internal.remote.internal.inet.SocketConnection$SocketOutputStream.writeBufferToChannel(SocketConnection.java:269)
+	at org.gradle.internal.remote.internal.inet.SocketConnection$SocketOutputStream.flush(SocketConnection.java:263)
+	at org.gradle.internal.remote.internal.inet.SocketConnection.flush(SocketConnection.java:140)
+	... 27 more
+Daemon vm is shutting down... The daemon has exited normally or was terminated in response to a user interrupt.
+Remove shutdown hook failed
+java.lang.IllegalStateException: Shutdown in progress
+	at java.base/java.lang.ApplicationShutdownHooks.remove(ApplicationShutdownHooks.java:83)
+	at java.base/java.lang.Runtime.removeShutdownHook(Runtime.java:252)
+	at org.gradle.process.internal.shutdown.ShutdownHooks.removeShutdownHook(ShutdownHooks.java:38)
+	at org.gradle.process.internal.DefaultExecHandle.setEndStateInfo(DefaultExecHandle.java:214)
+	at org.gradle.process.internal.DefaultExecHandle.aborted(DefaultExecHandle.java:410)
+	at org.gradle.process.internal.ExecHandleRunner.completed(ExecHandleRunner.java:215)
+	at org.gradle.process.internal.ExecHandleRunner.lambda$completeProcess$0(ExecHandleRunner.java:183)
+	at org.gradle.internal.operations.CurrentBuildOperationRef.with(CurrentBuildOperationRef.java:85)
+	at org.gradle.process.internal.ExecHandleRunner.completeProcess(ExecHandleRunner.java:181)
+	at java.base/java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:808)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:531)
+	at java.base/java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2206)
+	at org.gradle.process.internal.streams.OutputStreamsForwarder.streamFinished(OutputStreamsForwarder.java:77)
+	at org.gradle.process.internal.streams.ExecOutputHandleRunner.run(ExecOutputHandleRunner.java:65)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:65)
+	at org.gradle.internal.concurrent.AbstractManagedExecutor$1.run(AbstractManagedExecutor.java:47)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
